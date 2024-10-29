@@ -56,7 +56,6 @@ nav a.active {
 }
 
 main {
-    border: 1px solid red;
     height: calc(100vh - 12.2rem);
     display: flex;
     flex-direction: column;
