@@ -1,0 +1,25 @@
+@import "../css/global.css";
+@import "../css/header.css";
+
+body {
+    background-image: var(--universo-bg);
+    background-position-y: bottom;
+}
+
+main {
+    color: var(--grey-2);
+    margin-left: 10.2rem;
+    margin-top: 6.3rem;
+}
+
+main h1 {
+    font-size: 4.8rem;
+    margin-bottom: 1.6rem;
+    line-height: 125%;
+}
+
+main p {
+    max-width: 64.8rem;
+    font-size: 1.8rem;
+    line-height: 160%;
+}
